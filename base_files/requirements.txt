@@ -1,0 +1,6 @@
+undetected_chromedriver 
+bs4
+pandas
+dotenv 
+selenium 
+

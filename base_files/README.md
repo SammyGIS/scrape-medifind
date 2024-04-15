@@ -1,0 +1,1 @@
+scrape_doctor_mefind+url.py contains code to scrape individual pages
